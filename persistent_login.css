@@ -27,3 +27,8 @@
 	text-align: center;
 	text-shadow: none;
 }
+
+html.dark-mode .ifpl-hint {
+        background: none;
+        color: #f00;
+}
