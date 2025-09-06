@@ -1,4 +1,5 @@
 <?php
-$labels['ifpl_rememberme'] = 'Ricordami';
-$labels['ifpl_rememberme_hint'] = 'Per motivi di sicurezza, non usare questa funzione su computer pubblici o condivisi';
+$labels = array();
+$labels['ifpl_rememberme'] = 'Mantenere l\'accesso';
+$labels['ifpl_rememberme_hint'] = 'Usare con cautela sui computer pubblici.';
 ?>

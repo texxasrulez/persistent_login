@@ -1,4 +1,5 @@
 <?php
-$labels['ifpl_rememberme'] = 'Trvalé přihlášení';
-$labels['ifpl_rememberme_hint'] = 'Nepoužívejte tuto funkci z bezpečnostních důvodů na veřejných počítačích.';
+$labels = array();
+$labels['ifpl_rememberme'] = 'Mějte mě přihlášeného';
+$labels['ifpl_rememberme_hint'] = 'Na veřejných počítačích používejte s opatrností.';
 ?>

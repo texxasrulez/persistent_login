@@ -1,4 +1,5 @@
 <?php
-$labels['ifpl_rememberme'] = 'Angemeldet bleiben.';
-$labels['ifpl_rememberme_hint'] = 'Aus Sicherheitsgründen sollten Sie diese Funktion nicht an öffentlichen Computern verwenden.';
+$labels = array();
+$labels['ifpl_rememberme'] = 'Ich bleibe eingeloggt';
+$labels['ifpl_rememberme_hint'] = 'Bei öffentlichen Computern ist Vorsicht geboten.';
 ?>

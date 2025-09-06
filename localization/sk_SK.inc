@@ -1,4 +1,5 @@
 <?php
-$labels['ifpl_rememberme'] = 'Zapamätaj si ma';
-$labels['ifpl_rememberme_hint'] = 'Z bezpečnostných dôvodov neodporúčame používať túto funkciu na verejne dostupných počítačoch.'
+$labels = array();
+$labels['ifpl_rememberme'] = 'Nechajte ma prihláseného';
+$labels['ifpl_rememberme_hint'] = 'Na verejných počítačoch používajte s opatrnosťou.';
 ?>

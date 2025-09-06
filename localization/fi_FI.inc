@@ -1,4 +1,5 @@
 <?php
-$labels['ifpl_rememberme'] = 'Pidä minut kirjautuneena';
-$labels['ifpl_rememberme_hint'] = 'Älä käytä tätä asetusta julkisilla tietokoneilla!';
+$labels = array();
+$labels['ifpl_rememberme'] = 'Pidä minut kirjautuneena sisään';
+$labels['ifpl_rememberme_hint'] = 'Käytä varoen julkisissa tietokoneissa.';
 ?>

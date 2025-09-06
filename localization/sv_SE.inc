@@ -1,4 +1,5 @@
 <?php
-$labels['ifpl_rememberme'] = 'Kom ihåg mig';
-$labels['ifpl_rememberme_hint'] = 'Använd inte denna funktion på offentliga datorer pga säkerhetskäl';
+$labels = array();
+$labels['ifpl_rememberme'] = 'Håll mig inloggad';
+$labels['ifpl_rememberme_hint'] = 'Använd försiktighet på offentliga datorer.';
 ?>
