@@ -49,7 +49,7 @@ $(document).ready(function () {
 			}
 			
 			// Elastic Skin
-			else if (skin == 'elastic') {
+			else if (skin == 'elastic' || skin == 'plesk') {
 				parentElementSelector = '#login-form table tbody';
 				html = `
 					<tr class="form-group row">
