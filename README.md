@@ -1,4 +1,12 @@
 # Persistent Login (Roundcube)
+
+[![Packagist](https://img.shields.io/packagist/dt/texxasrulez/persistent_login?style=plastic)](https://packagist.org/packages/texxasrulez/persistent_login)
+[![Packagist Version](https://img.shields.io/packagist/v/texxasrulez/persistent_login?style=plastic&logo=packagist&logoColor=white)](https://packagist.org/packages/texxasrulez/persistent_login)
+[![Project license](https://img.shields.io/github/license/texxasrulez/persistent_login?style=plastic)](https://github.com/texxasrulez/persistent_login/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/texxasrulez/persistent_login?style=plastic&logo=github)](https://github.com/texxasrulez/persistent_login/stargazers)
+[![issues](https://img.shields.io/github/issues/texxasrulez/persistent_login?style=plastic)](https://github.com/texxasrulez/persistent_login/issues)
+[![Donate to this project using Paypal](https://img.shields.io/badge/paypal-donate-blue.svg?style=plastic&logo=paypal)](https://www.paypal.me/texxasrulez)
+
 Provides a "Keep me logged in" aka "Remember Me" functionality for [Roundcube][roundcube].
 
 ![Login with Larry Skin](docs/login_elastic.png)
