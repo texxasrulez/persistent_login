@@ -1,13 +1,13 @@
 # Persistent Login (Roundcube)
 
-[![Packagist](https://img.shields.io/packagist/dt/texxasrulez/persistent_login?style=plastic&labelColor=blue&color=gold)](https://packagist.org/packages/texxasrulez/persistent_login)
-[![Packagist Version](https://img.shields.io/packagist/v/texxasrulez/persistent_login?style=plastic&logo=packagist&logoColor=white&labelColor=blue&color=limegreen)](https://packagist.org/packages/texxasrulez/persistent_login)
-[![Project license](https://img.shields.io/github/license/texxasrulez/persistent_login?style=plastic&labelColor=blue&color=coral)](https://github.com/texxasrulez/persistent_login/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/texxasrulez/persistent_login?style=plastic&logo=github&labelColor=blue&color=deepskyblue)](https://github.com/texxasrulez/persistent_login/stargazers)
-[![issues](https://img.shields.io/github/issues/texxasrulez/persistent_login?style=plastic&labelColor=blue&color=aqua)](https://github.com/texxasrulez/persistent_login/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/texxasrulez/persistent_login?style=plastic&logo=github&logoColor=white&labelColor=blue&color=orchid)](https://github.com/texxasrulez/persistent_login/graphs/contributors)
-[![GitHub forks](https://img.shields.io/github/forks/texxasrulez/persistent_login?style=plastic&logo=github&logoColor=white&labelColor=blue&color=darkorange)](https://github.com/texxasrulez/persistent_login/forks)
-[![Donate to this project using Paypal](https://img.shields.io/badge/paypal-money_please-blue.svg?style=plastic&labelColor=blue&color=forestgreen&logo=paypal)](https://www.paypal.me/texxasrulez)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/texxasrulez/persistent_login?style=plastic&logo=packagist&logoColor=white&label=Downloads&labelColor=blue&color=gold)](https://packagist.org/packages/texxasrulez/persistent_login)
+[![Packagist Version](https://img.shields.io/packagist/v/texxasrulez/persistent_login?style=plastic&logo=packagist&logoColor=white&label=Version&labelColor=blue&color=limegreen)](https://packagist.org/packages/texxasrulez/persistent_login)
+[![Github License](https://img.shields.io/github/license/texxasrulez/persistent_login?style=plastic&logo=github&label=License&labelColor=blue&color=coral)](https://github.com/texxasrulez/persistent_login/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/texxasrulez/persistent_login?style=plastic&logo=github&label=Stars&labelColor=blue&color=deepskyblue)](https://github.com/texxasrulez/persistent_login/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/texxasrulez/persistent_login?style=plastic&logo=github&label=Issues&labelColor=blue&color=aqua)](https://github.com/texxasrulez/persistent_login/issues)
+[![GitHub Contributors](https://img.shields.io/github/contributors/texxasrulez/persistent_login?style=plastic&logo=github&logoColor=white&label=Contributors&labelColor=blue&color=orchid)](https://github.com/texxasrulez/persistent_login/graphs/contributors)
+[![GitHub Forks](https://img.shields.io/github/forks/texxasrulez/persistent_login?style=plastic&logo=github&logoColor=white&label=Forks&labelColor=blue&color=darkorange)](https://github.com/texxasrulez/persistent_login/forks)
+[![Donate Paypal](https://img.shields.io/badge/Paypal-Money_Please!-blue.svg?style=plastic&labelColor=blue&color=forestgreen&logo=paypal)](https://www.paypal.me/texxasrulez)
 
 Provides a "Keep me logged in" aka "Remember Me" functionality for [Roundcube][roundcube].
 
