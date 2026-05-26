@@ -9,7 +9,7 @@
 CREATE TABLE IF NOT EXISTS auth_tokens (
     `token` varchar(128) NOT NULL,
     `expires` datetime NOT NULL,
-    `user_id` int check (`user_id` > 0) NOT NULL,
+    `user_id` int(10) unsigned NOT NULL,
     `user_name` varchar(128) NOT NULL,
     `user_pass` varchar(128) NOT NULL,
 	`host` varchar(255) NOT NULL
